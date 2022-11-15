@@ -16,6 +16,10 @@ Link do Dicionário de Dados:
 
   - https://dados.gov.br/dataset/hemovigilancia-em-pos-mercado/resource/1969c163-448d-4400-b7b5-c5c2f664fc61
 
+Link dos dados limpos do trabalho do primeiro bimestre se encontram em:
+
+  - https://drive.google.com/file/d/1rQd-XjsD_Uw6TTHR29L9OH_ZLkiVX91H/view?usp=share_link
+
 Integrantes:
 
   - Aramis Chang Chain, RGM: 8813440250
